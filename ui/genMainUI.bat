@@ -1,0 +1,1 @@
+pyside6-uic mainUI.ui -o mainUI.py
